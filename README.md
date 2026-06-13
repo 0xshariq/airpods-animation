@@ -1,37 +1,57 @@
-# AirPods Animation
+# 🎧 AirPods Animation
 
 A 3D AirPods product animation created in Blender as part of my Blender learning journey.
 
-This project focuses on product visualization, lighting, camera animation, rendering, and video sequencing.
+This project focuses on product visualization, camera animation, lighting, rendering, and video sequencing. It also includes a comparison between 12 FPS and 24 FPS versions of the same animation.
 
-## Preview
+---
 
-### 12 FPS Version
+## 🎬 12 FPS Animation
 
-<video src="./12-fps-airpod-animation.mp4" controls width="800">
+<video width="100%" controls>
+  <source src="./12-fps-airpod-animation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-### 24 FPS Version
+---
 
-<video src="./24-fps-airpod-animation.mp4" controls width="800">
+## 🎬 24 FPS Animation
+
+<video width="100%" controls>
+  <source src="./24-fps-airpod-animation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-## Project Overview
+---
 
-This animation showcases a pair of AirPods using a clean product-style presentation with cinematic camera movement and lighting.
+## 📌 Project Overview
 
-## Software Used
+This project was created to practice:
+
+* Product Animation
+* Camera Animation
+* Lighting Setup
+* Material Setup
+* Rendering Workflow
+* Video Sequencing
+* Animation Export Pipeline
+
+The animation showcases AirPods using a clean product-style presentation with dynamic camera movement and cinematic lighting.
+
+---
+
+## 🛠️ Software Used
 
 * Blender 5.1.1
 
-## Skills Practiced
+---
+
+## 📚 Skills Practiced
 
 ### Animation
 
 * Keyframe Animation
-* Camera Animation
+* Camera Movement
 * Timeline Management
 * Frame Rate Comparison (12 FPS vs 24 FPS)
 
@@ -45,34 +65,52 @@ This animation showcases a pair of AirPods using a clean product-style presentat
 ### Scene Setup
 
 * Product Visualization
-* Lighting Setup
 * Material Setup
+* Lighting Setup
 * Composition
 
-## Project Files
+---
+
+## 📂 Project Files
 
 ```text
+README.md
 12-fps-airpod-animation.mp4
 24-fps-airpod-animation.mp4
 ```
 
-## What I Learned
+---
 
-* Product animation workflow in Blender
-* Camera movement and presentation
-* Rendering and export pipeline
-* Difference between viewport playback and final renders
-* Video sequencing workflow
+## 🎯 Learning Outcomes
 
-## Future Improvements
+Through this project, I learned:
 
-* Improved materials
-* Advanced lighting techniques
-* Infinite looping animation
-* More cinematic camera movements
+* How to animate objects using keyframes
+* How camera movement affects product presentation
+* The difference between viewport playback and final rendered output
+* Basic rendering workflow in Blender
+* Video sequencing and export workflow
+* Frame rate comparison between 12 FPS and 24 FPS
 
-## Author
+---
 
-Sharique Chaudhary
+## 🚀 Future Improvements
+
+* Improved materials and textures
+* More advanced lighting techniques
+* Enhanced camera movements
+* Better rendering quality
+* Infinite-loop product animation concepts
+* More detailed product visualization workflows
+
+---
+
+## 👨‍💻 Author
+
+**Sharique Chaudhary**
 
 Blender Learning Journey • 2026
+
+---
+
+⭐ If you enjoyed this project, feel free to explore my other Blender projects and follow my learning journey.
